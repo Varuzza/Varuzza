@@ -2,7 +2,7 @@
 
 - 💻 I have a degree in Civil Engineering at FHO - Fundação Hermínio Ometto.
 - 🔭 I’m currently working with the SAP GUI at the group Kering Eyewear.
-- 📚 I'm learning how to program with Alura, and the more I learn and the more frustrated I get, the better I become!
+- 📚 I'm learning how to program with Alura!
 
 ## Languages and Tools 💻
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
